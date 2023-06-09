@@ -2,7 +2,7 @@ import openai
 
 
 ##Obtem a chave da API do modelo de linguagem
-openai.api_key = "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"
+openai.api_key = "api-key"
 
 def gera_texto(texto):
     ##Cria a resposta do modelo de linguagem
